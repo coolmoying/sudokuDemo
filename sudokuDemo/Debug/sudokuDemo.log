@@ -1,0 +1,9 @@
+﻿  sudoku.cpp
+C:\Users\moying\Desktop\九宫格\sudokuDemo\sudokuDemo\sudoku.cpp(7,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\moying\Desktop\九宫格\sudokuDemo\sudokuDemo\sudoku.cpp(9,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\moying\Desktop\九宫格\sudokuDemo\sudokuDemo\sudoku.cpp(36,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\moying\Desktop\九宫格\sudokuDemo\sudokuDemo\sudoku.cpp(55,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\moying\Desktop\九宫格\sudokuDemo\sudokuDemo\sudoku.cpp(57,21): warning C4018: “<”: 有符号/无符号不匹配
+  testSudoku.cpp
+  正在生成代码...
+  sudokuDemo.vcxproj -> C:\Users\moying\Desktop\九宫格\sudokuDemo\Debug\sudokuDemo.exe
